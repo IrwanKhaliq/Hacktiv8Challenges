@@ -1,6 +1,8 @@
-# Hacktiv8Challenges
+# FULLSTACK JAVASCRIPT
 
-## Hacktiv8 PHASE 1
+## OBJECT ORIENTED PROGRAMMING
 
-### WEEK 1
-[Google](google.com)
+[ENCAPSULATION](https://www.youtube.com/watch?v=ZYa_NiOUTQo)
+[INHERITANCE](https://www.youtube.com/watch?v=2c-cK4qxo2A)
+[ABSTRACTION](https://www.youtube.com/watch?v=jM0WcyQWMSM)
+[POLYMORPHISM](https://www.youtube.com/watch?v=XxMUJ9-Pb2E)
